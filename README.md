@@ -33,6 +33,8 @@ Automation 2025/
 Manual test cases are available in:
 
 📄 [Docs/QA Test Sittichok 2025.xlsx](./Docs/QA%20Test%20Sittichok%202025.xlsx)
+📄 [Google Sheets Version](https://docs.google.com/spreadsheets/d/1tXw4dgOWfMiQb0awohS3TiPEfBYRWVnnilDtWGhHKMY/edit?usp=sharing)
+
 
 ---
 
